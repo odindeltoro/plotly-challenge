@@ -6,4 +6,4 @@ Create an interactive dashboard with json dataset from Belly Button Biodiversity
 Laboratory data: [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/)
 
 ## Dashboard
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.JPG)
