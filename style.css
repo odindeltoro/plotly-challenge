@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background-color: snow;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-weight: 100;
+    color:snow;
+}
+
+.jumbotron {
+    padding-bottom: 50px;
+    font-size: 20px;
+    background: linear-gradient(rgb(82, 110, 133), rgb(27, 79, 122),rgb(52, 129, 192));
+    color: snow; 
+}
+
+.well {
+    padding-bottom: 10px;
+    font-size: 20px;
+    background: linear-gradient(rgb(82, 110, 133), rgb(27, 79, 122),rgb(52, 129, 192));
+    color: snow; 
+}
+
+.panel {
+    padding-bottom: 10px;
+    font-size: 20px;
+    background: linear-gradient(rgb(82, 110, 133), rgb(27, 79, 122),rgb(52, 129, 192));
+    color: snow; 
+}
